@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A demp package to publish",
   "main": "index.js",
+  "repository": "https://github.com/reashore/DemoPackage",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
