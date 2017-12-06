@@ -11,8 +11,10 @@ class Math {
     static mul(x, y) {
         return x * y;
     }
-    
+
     static div(x, y) {
         return x / y;
     }
 }
+
+export default Math;
