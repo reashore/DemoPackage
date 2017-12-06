@@ -12,5 +12,8 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {},
+  "publishConfig" : {
+    "registry" : "http://dev-app111.dev.local:8081/nexus/content/repositories/NPMTest"
+  }
 }
